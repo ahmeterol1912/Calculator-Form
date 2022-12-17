@@ -1,0 +1,10 @@
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.Form1.resources
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\bin\Debug\Calculator.exe.config
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\bin\Debug\Calculator.exe
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\bin\Debug\Calculator.pdb
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.exe
+C:\Users\aerol\Desktop\Calculator_WoundedWarriors1\Calculator_WoundedWarriors1\obj\Debug\Calculator.pdb
